@@ -1,0 +1,27 @@
+p{
+    color: rgb(7, 11, 2);
+    background-color: rgb(164, 192, 231);
+    border: 20px;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: justify;
+    margin: 0;
+    font-style: oblique;
+    font-size: large;
+}
+.blog{
+    color: rgb(25, 51, 100);
+    text-align: center;
+    text-shadow: 10px;
+    font-weight: bolder;
+}
+#footballer{
+    color: rgb(193, 196, 14);
+    background-color: rgb(33, 197, 41);
+    text-align: center;
+    border-radius: 10px;
+}
+ol{
+    text-align: inherit;
+    border: 20pxS;
+}
